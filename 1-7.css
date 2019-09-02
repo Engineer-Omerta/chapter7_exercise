@@ -4,3 +4,24 @@
 	box-sizing: content-box;
 	color: #6c6b6b;
 }
+
+.main-visual{
+	width: 100%;
+	height: 400px;
+	background-image: url(img/mv.jpg);
+	background-size: cover;
+	background-position: bottom;
+}
+
+.headline{
+	padding: 20px;
+}
+main{
+	width: 840px;
+	margin: 50px auto;
+}
+.webcamp{
+	margin-bottom: 30px;
+    border-bottom: 1px solid #808080;
+    padding-bottom: 30px;
+}
